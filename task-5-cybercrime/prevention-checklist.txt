@@ -1,0 +1,23 @@
+Stay Safe Online – Prevention Checklist
+
+-   Always verify the sender of emails and messages before clicking on
+    any links.
+-   Check website URLs carefully and ensure they start with “https://”
+    before entering sensitive information.
+-   Never share OTPs, passwords, or bank details with anyone, even if
+    the request appears genuine.
+-   Use strong and unique passwords for different accounts to prevent
+    unauthorized access.
+-   Enable two-factor authentication (2FA) for additional security on
+    important accounts.
+-   Avoid using public Wi-Fi for online banking or financial
+    transactions.
+-   Regularly update your apps, software, and antivirus to protect
+    against security threats.
+-   Be cautious of messages that create urgency or fear, such as
+    “account will be blocked immediately.”
+-   Monitor your bank and UPI transactions regularly to detect any
+    unauthorized activity.
+
+Reporting Cybercrime: - National Cyber Crime Portal:
+https://cybercrime.gov.in - Helpline: 1930
