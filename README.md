@@ -1,7 +1,8 @@
 # 📚 Digital Literacy Project
 
 ## 👤 Student Details
-- **Name:** Nikhil Kumar  
+- **Name:** Nikhil Kumar
+- **Reg.No:**25BCE10880   
 - **Course Code:** CSE0001  
 - **Course Title:** Digital Literacy  
 - **University:** VIT Bhopal University  
